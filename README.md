@@ -1,0 +1,2 @@
+# Admin-of-Operating-Systems-ADSO
+ADMINISTRACIÓ DE SISTEMES OPERATIUS curs 2023-24 EPSEVG
