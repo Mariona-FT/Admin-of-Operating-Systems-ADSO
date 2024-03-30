@@ -1,0 +1,35 @@
+Ramos, Pau,4DS0
+Justo, Samuel,4DS0
+Tsekot, Ilarion,4DS0
+Amate, Oriol,4DS0
+Voigt, Erich,Equip 1
+Benitez, Leo,Equip 1
+Barba Morilla, Naïm,Equip 1
+Romera, Adrián,Equip 1
+Laguna, Pol,Equip 1
+Anguera  Aixalà, Ernest,Equip 1
+Méndez Serrano, Manel,Equip 1
+García, Adrián,GPTeam
+Oncins, Francesco,GPTeam
+hostalot, marc,GPTeam
+Alcázar, Pau,GPTeam
+Roca, Marc,GPTeam
+Farré, Mariona,GPTeam
+Baño Vaca, Antony Joel,noNameSO
+Hurtado Manzano, Roger,noNameSO
+Rocamora, Alex,NoNameSO
+Zerpa Villafranco, Michael,noNameSO
+Gomez Brandon, Ivan,Pachanga sin Puertas
+Lobo, Alejandro ,Pachanga sin Puertas
+Gamboa, Marc,Pachanga sin Puertas
+Millan Lombarte, Eric,Pachanga sin Puertas
+Pino Alcala, Andreu,Pachanga sin Puertas
+Pascual, Marc,Pachanga sin Puertas
+Garcia, Ivan,Pachanga sin Puertas
+Sánchez-Mora, Cristina,The IT Crowd
+Chen, Jiale,The IT Crowd
+Bouallala Safyoun, Nawal,The IT Crowd
+Malhal Abbas, Khaled,The IT Crowd
+Martínez Rovira, Marc,The IT Crowd
+Alonso, Aitor,The IT Crowd
+Gauchola,Gerard,The IT Crowd
