@@ -5,14 +5,6 @@ En aquest repositori, trobareu tots els fitxers necessaris utilitzats i creats p
 
 ## Fitxers
 A continuació, es detallen els fitxers i projectes penjats en aquest repositori:
-
-- Carpeta general: [projecte_Prediccio_Exit_Academic](https://github.com/Mariona-FT/Data-Mining-MIDA/tree/main/projecte_Prediccio_Exit_Academic)
-- Informe Final: [Predicció de l'èxit o abandonament acadèmic dels estudiants](https://github.com/Mariona-FT/Data-Mining-MIDA/blob/main/projecte_Prediccio_Exit_Academic/Predicci%C3%B3%20l%E2%80%99%C3%A8xit%20abandonament%20acad%C3%A8mic%20estudiants.pdf)
-- Presentació Final: [Presentacio-Predicció de l'èxit o abandonament acadèmic dels estudiants](https://github.com/Mariona-FT/Data-Mining-MIDA/blob/main/projecte_Prediccio_Exit_Academic/Presentacio_Predicci%C3%B3%20de%20l%E2%80%99%C3%A8xit%20o%20abandonament%20acad%C3%A8mic%20dels%20estudiants_Mariona_Farr%C3%A9.pdf)
-- Scripts de l'activitat:
-  -  [prediccio_exit_academic.ipynb](https://github.com/Mariona-FT/Data-Mining-MIDA/blob/main/projecte_Prediccio_Exit_Academic/prediccio_exit_academic.ipynb) - Jupyter Notebook 
-  -  [prediccio_exit_academic.py](https://github.com/Mariona-FT/Data-Mining-MIDA/blob/main/projecte_Prediccio_Exit_Academic/prediccio_exit_academic.py) - Python
-
   
 ### Training 1: Instal·lació del Sistema Debian
 El primer training es centra en la instal·lació del Sistema Operatiu GNU/Linux Debian en una màquina d'arquitectura Intel a través d'una Màquina Virtual. Aquesta sessió implica obtenir la imatge del sistema, revisar comandes bàsiques de la shell UNIX i configurar el sistema per a l'arranc amb el nou SO. Es modifica la partició del sistema de fitxers, configuracions del sistema i la configuració d'un entorn d'usuari.
