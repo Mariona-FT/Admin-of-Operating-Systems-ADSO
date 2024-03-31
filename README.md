@@ -74,15 +74,12 @@ Aquesta sessió es centra en la gestió d'usuaris, detallant la creació manual 
 El training 5 es basa en dissenyar i implementar estratègies de còpia de seguretat utilitzant eines bàsiques d'UNIX. La importància dels sistemes per fer còpies de seguretat, presa de decisions respecte al medi de còpia de seguretat i freqüència de les còpies. La sessió fa servir tar i rsync per crear còpies de seguretat, posant èmfasi en còpies completes i incrementals, i gestió de snapshots. 
 
 #### Recursos
-- Carpeta general:  [training2](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/tree/main/training2)
+- Carpeta general:  [training5](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/tree/main/training5)
 
   Informe del Training:  
-  - [Training2_GPTeam.pdf](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training2/Training2_GPTeam.pdf)
-  - [Training2_GPTeam.docx](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training2/Training2_GPTeam.docx)
-  
-  Microhackaton 2:
-  - [mKHT2_GPTeam.pdf ](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training2/mHKT2_GPTeam.pdf)
-  - [mKHT2_GPTeam.docx](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training2/mHKT2_GPTeam.docx)
+  - [Training5_GPTeam.pdf](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training5/Training5_GPTeam.pdf)
+  - [Training5_GPTeam.docx](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training5/Training5_GPTeam.docx)
+
  
   
 ### Training 6: Programació de Tasques i Automatització
