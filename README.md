@@ -34,12 +34,28 @@ Aquesta sessió tracta els fonaments de la instal·lació de software en un sist
   - [Training2_GPTeam.pdf](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training2/Training2_GPTeam.pdf)
   - [Training2_GPTeam.docx](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training2/Training2_GPTeam.docx)
   
-  Microhackaton 1:
+  Microhackaton 2:
   - [mKHT2_GPTeam.pdf ](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training2/mHKT2_GPTeam.pdf)
   - [mKHT2_GPTeam.docx](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training2/mHKT2_GPTeam.docx)
 
 ### Training 3: Scripting per a l'Administració del Sistema
-El training 3 està dissenyada per introduir l'scripting com una eina poderosa per a les tasques d'administració del sistema. Cobreix l'scripting en Bash i Python per automatitzar tasques repetitives com la gestió d'usuaris, gestió d'espai en disc i recuperació d'informació del sistema, per millorar l'eficiència i fiabilitat del sistema a través de l'automatització i habilitats d'scripting.
+El training 3 està dissenyat per introduir l'scripting com una eina per a les tasques d'administració del sistema. Cobreix l'scripting en Bash i Python per automatitzar tasques repetitives com la gestió d'usuaris, gestió d'espai en disc i recuperació d'informació del sistema, per millorar l'eficiència i fiabilitat del sistema a través de l'automatització i habilitats d'scripting.
+#### Recursos
+- Carpeta general:  [training3](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/tree/main/training3)
+
+  Informe del Training:  
+  - [Training3_GPTeam.pdf](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training3/Training3_GPTeam.pdf)
+  - [Training3_GPTeam.docx](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training3/Training3_GPTeam.docx)
+ 
+  Codis del training:
+  - [Codis en bash](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/tree/main/training3/Codis-Bash)
+  - [Codis en python](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/tree/main/training3/Codis-Python)
+  
+  Microhackaton 3:
+  - [mKHT3_GPTeam.pdf ](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training3/mHKT3_GPTeam.pdf)
+  - [mKHT3_GPTeam.docx](https://github.com/Mariona-FT/Admin-of-Operating-Systems-ADSO/blob/main/training3/mHKT3_GPTeam.docx)
+ 
+
 
 ### Training 4: Gestió d'Usuaris i Personalització del Sistema
 Aquesta sessió es centra en la gestió d'usuaris, detallant la creació manual i automàtica d'usuaris, connexions remotes d'usuaris i estratègies per eliminar o desactivar usuaris. També presenta un usuari especial 'asosh' per executar scripts de shell simplificats amb privilegis de superusuari. Els objectius és dominar la gestió de grups d'usuaris, personalització de l'entorn i execució de comandes privilegiades sense accés root.
