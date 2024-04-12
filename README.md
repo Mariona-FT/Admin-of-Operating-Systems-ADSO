@@ -1,4 +1,4 @@
-# Admin-of-Operating-Systems-ADSO
+# Administation of Operating Systems: ADSO
 ADMINISTRACIÓ DE SISTEMES OPERATIUS curs 2023-24 EPSEVG
 
 En aquest repositori, trobareu tots els fitxers necessaris utilitzats i creats per l'assignatura d'Administració de sistemes operatius al Curs 2023-24 a la Universitat UPC a EPSEVG.
