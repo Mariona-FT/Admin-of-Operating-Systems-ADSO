@@ -115,7 +115,7 @@ La meva solució al examen final d'Administració de Sistemes Operatius implica 
 
 ## Autora
 
-Aquesta repositori ha estat creat per [Mariona Farré](https://github.com/Mariona-FT) i els trainings s'han elaborat col·laborativament amb el grup de GPTeam. 
+Aquest repositori ha estat creat per [Mariona Farré](https://github.com/Mariona-FT) i els trainings s'han elaborat col·laborativament amb el grup de GPTeam. 
 
 
 Gràcies per visitar aquest repositori :)
